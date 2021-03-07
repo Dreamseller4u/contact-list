@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "contact-list-4e11w",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
